@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="API_KEY">AIzaSyBIjDYUepeGFWIWO0wAHZISLa0Jba_VF5I</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_my_location">Minha localização</string>
+</resources>
